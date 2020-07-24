@@ -1,5 +1,5 @@
 # http-server-advanced-version
-Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭建属于自己的服务器.
+Linux下C++轻量级Web服务器
 
 * 使用**线程池 + epoll(ET和LT均实现) + 模拟Proactor模式**的并发模型
 * 使用**状态机**解析HTTP请求报文，支持解析**GET和POST**请求
